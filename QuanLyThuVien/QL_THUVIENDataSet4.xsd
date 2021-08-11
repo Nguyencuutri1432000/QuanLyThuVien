@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="QL_THUVIENDataSet4" targetNamespace="http://tempuri.org/QL_THUVIENDataSet4.xsd" xmlns:mstns="http://tempuri.org/QL_THUVIENDataSet4.xsd" xmlns="http://tempuri.org/QL_THUVIENDataSet4.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QL_THUVIENConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QL_THUVIENConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.QuanLyThuVien.Properties.Settings.GlobalReference.Default.QL_THUVIENConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="SACHPTableAdapter" GeneratorDataComponentClassName="SACHPTableAdapter" Name="SACHP" UserDataComponentName="SACHPTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QL_THUVIENConnectionString (Settings)" DbObjectName="QL_THUVIEN.dbo.SACHP" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MASH, TENSH, NAMXB, SOLUONGCON, TENNXB, TENLOAI, TENTG FROM dbo.SACHP</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MASH" DataSetColumn="MASH" />
+              <Mapping SourceColumn="TENSH" DataSetColumn="TENSH" />
+              <Mapping SourceColumn="NAMXB" DataSetColumn="NAMXB" />
+              <Mapping SourceColumn="SOLUONGCON" DataSetColumn="SOLUONGCON" />
+              <Mapping SourceColumn="TENNXB" DataSetColumn="TENNXB" />
+              <Mapping SourceColumn="TENLOAI" DataSetColumn="TENLOAI" />
+              <Mapping SourceColumn="TENTG" DataSetColumn="TENTG" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="QL_THUVIENDataSet4" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="QL_THUVIENDataSet4" msprop:Generator_UserDSName="QL_THUVIENDataSet4">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="SACHP" msprop:Generator_TableClassName="SACHPDataTable" msprop:Generator_TableVarName="tableSACHP" msprop:Generator_TablePropName="SACHP" msprop:Generator_RowDeletingName="SACHPRowDeleting" msprop:Generator_RowChangingName="SACHPRowChanging" msprop:Generator_RowEvHandlerName="SACHPRowChangeEventHandler" msprop:Generator_RowDeletedName="SACHPRowDeleted" msprop:Generator_UserTableName="SACHP" msprop:Generator_RowChangedName="SACHPRowChanged" msprop:Generator_RowEvArgName="SACHPRowChangeEvent" msprop:Generator_RowClassName="SACHPRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MASH" msprop:Generator_ColumnVarNameInTable="columnMASH" msprop:Generator_ColumnPropNameInRow="MASH" msprop:Generator_ColumnPropNameInTable="MASHColumn" msprop:Generator_UserColumnName="MASH" type="xs:int" />
+              <xs:element name="TENSH" msprop:Generator_ColumnVarNameInTable="columnTENSH" msprop:Generator_ColumnPropNameInRow="TENSH" msprop:Generator_ColumnPropNameInTable="TENSHColumn" msprop:Generator_UserColumnName="TENSH" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NAMXB" msprop:Generator_ColumnVarNameInTable="columnNAMXB" msprop:Generator_ColumnPropNameInRow="NAMXB" msprop:Generator_ColumnPropNameInTable="NAMXBColumn" msprop:Generator_UserColumnName="NAMXB" type="xs:int" minOccurs="0" />
+              <xs:element name="SOLUONGCON" msprop:Generator_ColumnVarNameInTable="columnSOLUONGCON" msprop:Generator_ColumnPropNameInRow="SOLUONGCON" msprop:Generator_ColumnPropNameInTable="SOLUONGCONColumn" msprop:Generator_UserColumnName="SOLUONGCON" type="xs:int" minOccurs="0" />
+              <xs:element name="TENNXB" msprop:Generator_ColumnVarNameInTable="columnTENNXB" msprop:Generator_ColumnPropNameInRow="TENNXB" msprop:Generator_ColumnPropNameInTable="TENNXBColumn" msprop:Generator_UserColumnName="TENNXB" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TENLOAI" msprop:Generator_ColumnVarNameInTable="columnTENLOAI" msprop:Generator_ColumnPropNameInRow="TENLOAI" msprop:Generator_ColumnPropNameInTable="TENLOAIColumn" msprop:Generator_UserColumnName="TENLOAI" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TENTG" msprop:Generator_ColumnVarNameInTable="columnTENTG" msprop:Generator_ColumnPropNameInRow="TENTG" msprop:Generator_ColumnPropNameInTable="TENTGColumn" msprop:Generator_UserColumnName="TENTG" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:SACHP" />
+      <xs:field xpath="mstns:MASH" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

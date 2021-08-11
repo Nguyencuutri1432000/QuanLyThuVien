@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="QL_THUVIENDataSet2" targetNamespace="http://tempuri.org/QL_THUVIENDataSet2.xsd" xmlns:mstns="http://tempuri.org/QL_THUVIENDataSet2.xsd" xmlns="http://tempuri.org/QL_THUVIENDataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QL_THUVIENConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QL_THUVIENConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.QuanLyThuVien.Properties.Settings.GlobalReference.Default.QL_THUVIENConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="MUONTRASACHPTableAdapter" GeneratorDataComponentClassName="MUONTRASACHPTableAdapter" Name="MUONTRASACHP" UserDataComponentName="MUONTRASACHPTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QL_THUVIENConnectionString (Settings)" DbObjectName="QL_THUVIEN.dbo.MUONTRASACHP" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT MADG, MASH, NGAYMUON, NGAYTRA, DATRA, LANMUON, TENSH, TENDG FROM dbo.MUONTRASACHP</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MADG" DataSetColumn="MADG" />
+              <Mapping SourceColumn="MASH" DataSetColumn="MASH" />
+              <Mapping SourceColumn="NGAYMUON" DataSetColumn="NGAYMUON" />
+              <Mapping SourceColumn="NGAYTRA" DataSetColumn="NGAYTRA" />
+              <Mapping SourceColumn="DATRA" DataSetColumn="DATRA" />
+              <Mapping SourceColumn="LANMUON" DataSetColumn="LANMUON" />
+              <Mapping SourceColumn="TENSH" DataSetColumn="TENSH" />
+              <Mapping SourceColumn="TENDG" DataSetColumn="TENDG" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="QL_THUVIENConnectionString (Settings)" DbObjectName="QL_THUVIEN.dbo.MUONTRASACHP" DbObjectType="View" FillMethodModifier="Public" FillMethodName="FillByDangMuon" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByDangMuon" GeneratorSourceName="FillByDangMuon" GetMethodModifier="Public" GetMethodName="GetDataByDangMuon" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByDangMuon" UserSourceName="FillByDangMuon">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT DATRA, LANMUON, MADG, MASH, NGAYMUON, NGAYTRA, TENDG, TENSH FROM MUONTRASACHP WHERE (DATRA = 0)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="QL_THUVIENConnectionString (Settings)" DbObjectName="QL_THUVIEN.dbo.MUONTRASACHP" DbObjectType="View" FillMethodModifier="Public" FillMethodName="FillByDaTra" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByDaTra" GeneratorSourceName="FillByDaTra" GetMethodModifier="Public" GetMethodName="GetDataByDaTra" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByDaTra" UserSourceName="FillByDaTra">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        MADG, MASH, NGAYMUON, NGAYTRA, DATRA, LANMUON, TENSH, TENDG
+FROM            MUONTRASACHP
+WHERE        (DATRA = 1)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="QL_THUVIENConnectionString (Settings)" DbObjectName="QL_THUVIEN.dbo.MUONTRASACHP" DbObjectType="View" FillMethodModifier="Public" FillMethodName="FillByQuaHan" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByQuaHan" GeneratorSourceName="FillByQuaHan" GetMethodModifier="Public" GetMethodName="GetDataByQuaHan" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByQuaHan" UserSourceName="FillByQuaHan">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        MADG, MASH, NGAYMUON, NGAYTRA, DATRA, LANMUON, TENSH, TENDG
+FROM            MUONTRASACHP
+WHERE        (DATRA = 0) AND (NGAYTRA &lt; GETDATE())</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="QL_THUVIENDataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="QL_THUVIENDataSet2" msprop:Generator_UserDSName="QL_THUVIENDataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="MUONTRASACHP" msprop:Generator_TableClassName="MUONTRASACHPDataTable" msprop:Generator_TableVarName="tableMUONTRASACHP" msprop:Generator_RowChangedName="MUONTRASACHPRowChanged" msprop:Generator_TablePropName="MUONTRASACHP" msprop:Generator_RowDeletingName="MUONTRASACHPRowDeleting" msprop:Generator_RowChangingName="MUONTRASACHPRowChanging" msprop:Generator_RowEvHandlerName="MUONTRASACHPRowChangeEventHandler" msprop:Generator_RowDeletedName="MUONTRASACHPRowDeleted" msprop:Generator_RowClassName="MUONTRASACHPRow" msprop:Generator_UserTableName="MUONTRASACHP" msprop:Generator_RowEvArgName="MUONTRASACHPRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MADG" msprop:Generator_ColumnVarNameInTable="columnMADG" msprop:Generator_ColumnPropNameInRow="MADG" msprop:Generator_ColumnPropNameInTable="MADGColumn" msprop:Generator_UserColumnName="MADG" type="xs:int" />
+              <xs:element name="MASH" msprop:Generator_ColumnVarNameInTable="columnMASH" msprop:Generator_ColumnPropNameInRow="MASH" msprop:Generator_ColumnPropNameInTable="MASHColumn" msprop:Generator_UserColumnName="MASH" type="xs:int" />
+              <xs:element name="NGAYMUON" msprop:Generator_ColumnVarNameInTable="columnNGAYMUON" msprop:Generator_ColumnPropNameInRow="NGAYMUON" msprop:Generator_ColumnPropNameInTable="NGAYMUONColumn" msprop:Generator_UserColumnName="NGAYMUON" type="xs:dateTime" />
+              <xs:element name="NGAYTRA" msprop:Generator_ColumnVarNameInTable="columnNGAYTRA" msprop:Generator_ColumnPropNameInRow="NGAYTRA" msprop:Generator_ColumnPropNameInTable="NGAYTRAColumn" msprop:Generator_UserColumnName="NGAYTRA" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="DATRA" msprop:Generator_ColumnVarNameInTable="columnDATRA" msprop:Generator_ColumnPropNameInRow="DATRA" msprop:Generator_ColumnPropNameInTable="DATRAColumn" msprop:Generator_UserColumnName="DATRA" type="xs:boolean" />
+              <xs:element name="LANMUON" msprop:Generator_ColumnVarNameInTable="columnLANMUON" msprop:Generator_ColumnPropNameInRow="LANMUON" msprop:Generator_ColumnPropNameInTable="LANMUONColumn" msprop:Generator_UserColumnName="LANMUON" type="xs:int" />
+              <xs:element name="TENSH" msprop:Generator_ColumnVarNameInTable="columnTENSH" msprop:Generator_ColumnPropNameInRow="TENSH" msprop:Generator_ColumnPropNameInTable="TENSHColumn" msprop:Generator_UserColumnName="TENSH" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TENDG" msprop:Generator_ColumnVarNameInTable="columnTENDG" msprop:Generator_ColumnPropNameInRow="TENDG" msprop:Generator_ColumnPropNameInTable="TENDGColumn" msprop:Generator_UserColumnName="TENDG" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:MUONTRASACHP" />
+      <xs:field xpath="mstns:MADG" />
+      <xs:field xpath="mstns:MASH" />
+      <xs:field xpath="mstns:LANMUON" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

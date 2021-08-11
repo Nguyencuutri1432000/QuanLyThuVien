@@ -1,0 +1,119 @@
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmLoaiSach.resources
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmQLSach.resources
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaiKhoan.resources
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\obj\Debug\QuanLyThuVien.TimKiemTTSachcs.resources
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDocGia.resources
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmNXB.resources
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmTacGia.resources
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmMenu.resources
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmSach.resources
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\bin\Debug\ReaLTaiizor.dll
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\bin\Debug\ReaLTaiizor.xml
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDangKy.resources
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDangNhap.resources
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmMuonTraSach.resources
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+D:\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDangKy.resources
+D:\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDocGia.resources
+D:\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmLoaiSach.resources
+D:\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmNXB.resources
+D:\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmTacGia.resources
+D:\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmMuonTraSach.resources
+D:\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmSach.resources
+D:\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+D:\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.ReportTTSach.resources
+D:\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaiKhoan.resources
+D:\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+D:\QLTV\QuanLyThuVien\obj\Debug\RdlCompile.cache
+D:\QLTV\QuanLyThuVien\obj\Debug\RdlCompile.compiled
+D:\QLTV\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\QLTV\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\QLTV\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\QLTV\QuanLyThuVien\bin\Debug\ReaLTaiizor.dll
+D:\QLTV\QuanLyThuVien\bin\Debug\ReaLTaiizor.xml
+D:\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDangNhap.resources
+D:\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.Information.resources
+D:\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.ReportDocGia.resources
+D:\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+D:\New folder\QLTV\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\New folder\QLTV\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\New folder\QLTV\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\New folder\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+D:\New folder\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.Information.resources
+D:\New folder\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDangNhap.resources
+D:\New folder\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDangKy.resources
+D:\New folder\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDocGia.resources
+D:\New folder\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmLoaiSach.resources
+D:\New folder\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmNXB.resources
+D:\New folder\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmTacGia.resources
+D:\New folder\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmMuonTraSach.resources
+D:\New folder\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmSach.resources
+D:\New folder\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+D:\New folder\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\New folder\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.Reportfrm_MuonTraSach.resources
+D:\New folder\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.Reportfrm_DocGia.resources
+D:\New folder\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.Reportfrm_TTSach.resources
+D:\New folder\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaiKhoan.resources
+D:\New folder\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+D:\New folder\QLTV\QuanLyThuVien\obj\Debug\RdlCompile.cache
+D:\New folder\QLTV\QuanLyThuVien\obj\Debug\RdlCompile.compiled
+D:\New folder\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\New folder\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.Information.resources
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDangNhap.resources
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDangKy.resources
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDocGia.resources
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmLoaiSach.resources
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmNXB.resources
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmTacGia.resources
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmMuonTraSach.resources
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmSach.resources
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.Reportfrm_MuonTraSach.resources
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.Reportfrm_TTSach.resources
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.Reportfrm_DocGia.resources
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaiKhoan.resources
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\obj\Debug\RdlCompile.cache
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\obj\Debug\RdlCompile.compiled
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\3\DA_PTPMUDTM_NHOM_3\SOURCE\QLTV\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.Information.resources
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDangNhap.resources
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDangKy.resources
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmDocGia.resources
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmLoaiSach.resources
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmNXB.resources
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmTacGia.resources
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmMuonTraSach.resources
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmSach.resources
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.Reportfrm_MuonTraSach.resources
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.Reportfrm_TTSach.resources
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.Reportfrm_DocGia.resources
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaiKhoan.resources
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\obj\Debug\RdlCompile.cache
+D:\3\Nhom3_2001180427_2001180298\SOURCE\DA_PTPMUDTM_NHOM_3\QuanLyThuVien\obj\Debug\RdlCompile.compiled

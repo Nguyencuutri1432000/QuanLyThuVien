@@ -1,0 +1,31 @@
+C:\Users\Agwinao\documents\visual studio 2012\Projects\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\Agwinao\documents\visual studio 2012\Projects\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\Agwinao\documents\visual studio 2012\Projects\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\Agwinao\documents\visual studio 2012\Projects\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+C:\Users\Agwinao\documents\visual studio 2012\Projects\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.DangNhap.resources
+C:\Users\Agwinao\documents\visual studio 2012\Projects\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Menu.resources
+C:\Users\Agwinao\documents\visual studio 2012\Projects\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.MuonTraSach.resources
+C:\Users\Agwinao\documents\visual studio 2012\Projects\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.QLTTS.resources
+C:\Users\Agwinao\documents\visual studio 2012\Projects\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\Agwinao\documents\visual studio 2012\Projects\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaiKhoan.resources
+C:\Users\Agwinao\documents\visual studio 2012\Projects\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TimKiemTTSachcs.resources
+C:\Users\Agwinao\documents\visual studio 2012\Projects\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+C:\Users\Agwinao\documents\visual studio 2012\Projects\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\Agwinao\documents\visual studio 2012\Projects\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\Study\UDTM\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\Study\UDTM\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\Study\UDTM\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\Study\UDTM\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\Study\UDTM\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\Study\UDTM\QuanLyThuVien\obj\Debug\QuanLyThuVien.DangNhap.resources
+D:\Study\UDTM\QuanLyThuVien\obj\Debug\QuanLyThuVien.Menu.resources
+D:\Study\UDTM\QuanLyThuVien\obj\Debug\QuanLyThuVien.MuonTraSach.resources
+D:\Study\UDTM\QuanLyThuVien\obj\Debug\QuanLyThuVien.QLTTS.resources
+D:\Study\UDTM\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\Study\UDTM\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaiKhoan.resources
+D:\Study\UDTM\QuanLyThuVien\obj\Debug\QuanLyThuVien.TimKiemTTSachcs.resources
+D:\Study\UDTM\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+D:\Study\UDTM\QuanLyThuVien\obj\Debug\QuanLyThuVien.DangKy.resources
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\Agwinao\Downloads\Compressed\Smart Application Project\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
